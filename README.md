@@ -1,4 +1,4 @@
-### Hi there 👋
+## Olá eu sou o Wesley Boaes, aspirante a programador que ama tecnologia!
 <!--
 **wesleyboaes/wesleyboaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 - 🔭 Atualmente trabalho com redes
 - 🌱 Estudadndo Java, Angular, SpringBoot, entre outros
 - 😄 Pronouns: ele/dele
-
 <div>
   <a href="https://github.com/wesleyboaes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleyboaes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
