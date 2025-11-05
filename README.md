@@ -50,16 +50,15 @@ Coming soon!
 I’ll be sharing some of my DevOps automations, Python scripts, and data visualization projects here.  
 Stay tuned! 🚧
 
-
 ---
 
 ### 📫 Let’s Connect  
 <a href="https://www.linkedin.com/in/wesley-boaes-05620ba5/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Wesley%20Boaes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Wesley%20Boaes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0B45" alt="LinkedIn Badge"/>
 </a>
 <br>
 <a href="mailto:wesleyboaes@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-wesleyboaes%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  <img src="https://img.shields.io/badge/Email-wesleyboaes%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=300030" alt="Email Badge"/>
 </a>
 
 ---
